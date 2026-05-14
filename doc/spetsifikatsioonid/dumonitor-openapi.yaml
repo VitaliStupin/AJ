@@ -148,11 +148,11 @@ components:
           type: string
           example: Isiku ees- ja perenime päring
         receiverCode:
-          description: Asutuse registrikood, kellele isikuandmeid edastati või kes isikuandmeid töötles
+          description: Asutuse registrikood või isiku isikukood, kellele isikuandmeid edastati või kes isikuandmeid töötles
           type: string
           example: '12345678'
         receiverName:
-          description: Asutuse nimi, kellele isikuandmeid edastati või kes isikuandmeid töötles
+          description: Asutuse või isiku nimi, kellele isikuandmeid edastati või kes isikuandmeid töötles
           type: string
           example: TEHIK
         receiverSystem:
