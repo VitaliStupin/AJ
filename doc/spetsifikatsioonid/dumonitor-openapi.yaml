@@ -136,7 +136,6 @@ components:
       - logtime
       - action
       - receiverCode
-      - receiverSystem
       properties:
         logtime:
           description: Andmetöötluse ajamoment
